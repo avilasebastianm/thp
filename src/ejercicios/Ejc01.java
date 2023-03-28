@@ -1,4 +1,5 @@
 package ejercicios;
 
-public class Ejc01 {
+public class Ejc01{
+
 }
