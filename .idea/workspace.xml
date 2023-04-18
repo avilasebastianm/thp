@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="45c0a771-f9f8-4129-9197-4ab2f31cf290" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejc01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejc01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejc01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ej39.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="ej39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ej39" />
+      <module name="thp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ej39" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,6 +79,9 @@
       <workItem from="1679944060751" duration="3260000" />
       <workItem from="1680009829140" duration="118000" />
       <workItem from="1680009981151" duration="717000" />
+      <workItem from="1681857392732" duration="132000" />
+      <workItem from="1681857547526" duration="2086000" />
+      <workItem from="1681859770801" duration="32000" />
     </task>
     <servers />
   </component>
