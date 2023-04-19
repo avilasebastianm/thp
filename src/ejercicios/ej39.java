@@ -33,9 +33,9 @@ public static final int CANT_MIN_PARTICIPANTES = 2;
             nombre = teclado.nextLine();
 
             acuPuntaje = 0;
-            for (int j = 1; j <= CANT_MAX_TIROS; j++) {
+            for (int i = 1; i <= CANT_MAX_TIROS; i++) {
                 do {
-                    System.out.println("Ingese la distancia al centro del tiro " + j + ": ");
+                    System.out.println("Ingese la distancia al centro del tiro " + i + ": ");
                     distancia = teclado.nextInt();
                 } while(distancia < 0);
 
