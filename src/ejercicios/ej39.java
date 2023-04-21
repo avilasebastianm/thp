@@ -2,12 +2,10 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class ej39 {
-    public static final Scanner teclado = new Scanner(System.in);
+public class ej39 { public static final Scanner teclado = new Scanner(System.in);
 public static final int CANT_MAX_TIROS = 3;
 public static final int CANT_MIN_PARTICIPANTES = 2;
-
-    public static final int PUNTOS_MAX = 500;
+public static final int PUNTOS_MAX = 500;
     public static final int PUNTOS_MED = 250;
     public static final int PUNTOS_MIN = 100;
     public static final int SIN_PUNTOS = 0;
@@ -33,7 +31,7 @@ public static final int CANT_MIN_PARTICIPANTES = 2;
             nombre = teclado.nextLine();
 
             acuPuntaje = 0;
-            for (int i = 1; i <= CANT_MAX_TIROS; i++) {
+            for (int j = 1; j <= CANT_MAX_TIROS; j++) {
                 do {
                     System.out.println("Ingese la distancia al centro del tiro " + i + ": ");
                     distancia = teclado.nextInt();
